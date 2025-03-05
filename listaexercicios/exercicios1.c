@@ -1,7 +1,6 @@
-#include
+#include <stdio.h>
 
-void main()
-{
+void main(){
     int n, i;
     i = 20;
     n = 2 * (i % 3);
